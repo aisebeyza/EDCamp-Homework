@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "In
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day5-Hw4", "Day5-Hw4", "{994D02D5-BD4E-4F3E-8FA8-939CB118CDE0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day7-Hw1", "Day7-Hw1", "{F8C21D01-A5B5-41D2-8939-C285282CE389}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day7-Hw1-3", "Day7-Hw1-3", "{F8C21D01-A5B5-41D2-8939-C285282CE389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "Linq\LinqProject.csproj", "{36B55768-13AA-46FC-A24C-260F8D2FF3D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqProject", "Linq\LinqProject.csproj", "{36B55768-13AA-46FC-A24C-260F8D2FF3D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
